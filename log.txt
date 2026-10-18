@@ -1,0 +1,207 @@
+[00:33:58] Restocked 5x TEA
+[00:33:59] Restocked 5x TEA
+[00:34:11] Restocked 5x TEA
+[00:34:11] Restocked 5x TEA
+[12:24:25] Order generation started.
+[12:24:28] New order received: 1 items: [Burger ($20)]
+[12:24:31] New order received: 3 items: [Fries ($15), Fries ($15), Burger ($20)]
+[12:24:34] New order received: 2 items: [Burger ($20), Tea ($10)]
+[12:25:25] Order generation started.
+[12:25:28] New order received: 3 items: [Burger ($20), Tea ($10), Tea ($10)]
+[12:25:43] Order generation started.
+[12:25:46] New order received: 2 items: [Cola ($10), Fries ($15)]
+[12:25:49] New order received: 3 items: [Burger ($20), Cola ($10), Burger ($20)]
+[12:26:02] Order generation started.
+[12:26:05] New order received: 2 items: [Burger ($20), Cola ($10)]
+[12:26:08] New order received: 1 items: [Fries ($15)]
+[12:26:11] New order received: 3 items: [Cola ($10), Cola ($10), Cola ($10)]
+[12:26:14] New order received: 2 items: [Fries ($15), Cola ($10)]
+[12:26:17] New order received: 2 items: [Fries ($15), Burger ($20)]
+[12:29:08] Order generation started.
+[12:29:11] New order received: 3 items: [Cola ($10), Cola ($10), Fries ($15)]
+[12:29:14] New order received: 2 items: [Cola ($10), Cola ($10)]
+[12:29:17] New order received: 3 items: [Tea ($10), Cola ($10), Burger ($20)]
+[12:29:20] New order received: 3 items: [Burger ($20), Tea ($10), Burger ($20)]
+[12:29:22] Grill: grilling Burger
+[12:29:22] Order completed. +$10
+[12:29:23] Grill: grilling Fries
+[12:29:23] Grill: grilling Fries
+[12:29:23] Grill: grilling Burger
+[12:29:23] Order completed. +$30
+[12:29:23] New order received: 2 items: [Fries ($15), Fries ($15)]
+[12:29:23] Grill: grilling Burger
+[12:29:23] DrinkDispenser: preparing Tea
+[12:29:23] Order completed. +$20
+[12:29:24] Grill: grilling Burger
+[12:29:24] DrinkDispenser: preparing Tea
+[12:29:24] DrinkDispenser: preparing Tea
+[12:29:24] Order completed. +$30
+[12:29:24] DrinkDispenser: preparing Cola
+[12:29:24] Grill: grilling Fries
+[12:29:24] Order completed. +$20
+[12:29:25] Grill: grilling Burger
+[12:29:25] DrinkDispenser: preparing Cola
+[12:29:25] Grill: grilling Burger
+[12:29:25] Order completed. +$30
+[12:29:25] Grill: grilling Burger
+[12:29:25] DrinkDispenser: preparing Cola
+[12:29:25] Order completed. +$20
+[12:29:26] Grill: grilling Fries
+[12:29:26] Order completed. +$10
+[12:29:26] New order received: 2 items: [Burger ($20), Tea ($10)]
+[12:29:26] DrinkDispenser: preparing Cola
+[12:29:26] DrinkDispenser: preparing Cola
+[12:29:26] DrinkDispenser: preparing Cola
+[12:29:26] Order completed. +$30
+[12:29:27] Grill: grilling Fries
+[12:29:27] DrinkDispenser: preparing Cola
+[12:29:27] Order completed. +$20
+[12:29:27] Grill: grilling Fries
+[12:29:27] Grill: grilling Burger
+[12:29:27] Order completed. +$20
+[12:29:29] New order received: 2 items: [Fries ($15), Fries ($15)]
+[12:29:32] New order received: 1 items: [Tea ($10)]
+[12:29:51] Order generation started.
+[12:29:57] New order received: 1 items: [Fries ($15)]
+[12:30:03] New order received: 2 items: [Fries ($15), Burger ($20)]
+[12:30:04] DrinkDispenser: preparing Cola
+[12:30:04] DrinkDispenser: preparing Cola
+[12:30:04] Grill: grilling Fries
+[12:30:04] Order completed. +$30
+[12:30:04] DrinkDispenser: preparing Cola
+[12:30:04] DrinkDispenser: preparing Cola
+[12:30:04] Order completed. +$20
+[12:30:07] DrinkDispenser: preparing Tea
+[12:30:07] DrinkDispenser: preparing Cola
+[12:30:07] Grill: grilling Burger
+[12:30:07] Order completed. +$30
+[12:30:09] New order received: 2 items: [Tea ($10), Burger ($20)]
+[12:30:13] Grill: grilling Burger
+[12:30:13] DrinkDispenser: preparing Tea
+[12:30:13] Grill: grilling Burger
+[12:30:13] Order completed. +$30
+[12:30:15] New order received: 3 items: [Cola ($10), Burger ($20), Burger ($20)]
+[12:30:15] Grill: grilling Fries
+[12:30:15] Grill: grilling Fries
+[12:30:15] Order completed. +$20
+[12:30:16] Grill: grilling Burger
+[12:30:16] DrinkDispenser: preparing Tea
+[12:30:16] Order completed. +$20
+[12:30:16] Grill: grilling Fries
+[12:30:16] Grill: grilling Fries
+[12:30:16] Order completed. +$20
+[12:30:16] DrinkDispenser: preparing Tea
+[12:30:16] Order completed. +$10
+[12:30:17] Grill: grilling Fries
+[12:30:17] Order completed. +$10
+[12:30:17] Grill: grilling Fries
+[12:30:17] Grill: grilling Burger
+[12:30:17] Order completed. +$20
+[12:30:17] DrinkDispenser: preparing Tea
+[12:30:17] Grill: grilling Burger
+[12:30:17] Order completed. +$20
+[12:30:17] DrinkDispenser: preparing Cola
+[12:30:17] Grill: grilling Burger
+[12:30:17] Grill: grilling Burger
+[12:30:17] Order completed. +$30
+[12:30:18] No orders in queue.
+[12:30:18] No orders in queue.
+[12:30:18] No orders in queue.
+[12:30:18] No orders in queue.
+[12:30:19] No orders in queue.
+[12:30:19] No orders in queue.
+[12:30:21] New order received: 1 items: [Fries ($15)]
+[12:30:22] Grill: grilling Fries
+[12:30:22] Order completed. +$10
+[12:30:27] New order received: 2 items: [Fries ($15), Tea ($10)]
+[22:55:54] Order generation started.
+[22:56:00] New order received: 1 items: [Fries ($15)]
+[22:56:06] New order received: 2 items: [Burger ($20), Burger ($20)]
+[22:56:12] New order received: 1 items: [Fries ($15)]
+[22:56:18] New order received: 3 items: [Tea ($10), Burger ($20), Burger ($20)]
+[22:56:24] New order received: 3 items: [Burger ($20), Fries ($15), Burger ($20)]
+[22:56:28] DrinkDispenser: preparing Tea
+[22:56:28] Grill: grilling Burger
+[22:56:28] DrinkDispenser: preparing Cola
+[22:56:28] Order completed. +$30
+[22:56:30] New order received: 2 items: [Burger ($20), Burger ($20)]
+[22:56:31] DrinkDispenser: preparing Cola
+[22:56:31] Order completed. +$10
+[22:56:33] DrinkDispenser: preparing Cola
+[22:56:33] Grill: grilling Fries
+[22:56:33] Order completed. +$20
+[22:56:34] Grill: grilling Burger
+[22:56:34] DrinkDispenser: preparing Tea
+[22:56:34] Order completed. +$20
+[22:56:34] Grill: grilling Fries
+[22:56:34] Order completed. +$10
+[22:56:34] Grill: grilling Burger
+[22:56:34] Grill: grilling Burger
+[22:56:34] Order completed. +$20
+[22:56:35] Grill: grilling Fries
+[22:56:35] Order completed. +$10
+[22:56:36] New order received: 3 items: [Fries ($15), Tea ($10), Burger ($20)]
+[22:56:40] Restocked 5x BUNS
+[22:56:40] Restocked 5x BUNS
+[22:56:40] Restocked 5x BUNS
+[22:56:42] Restocked 5x TOMATO
+[22:56:42] Restocked 5x TOMATO
+[22:56:42] Restocked 5x TOMATO
+[22:56:42] New order received: 1 items: [Cola ($10)]
+[22:56:43] DrinkDispenser: preparing Tea
+[22:56:43] Grill: grilling Burger
+[22:56:43] Grill: grilling Burger
+[22:56:43] Order completed. +$30
+[22:56:43] Grill: grilling Burger
+[22:56:43] Grill: grilling Fries
+[22:56:43] Grill: grilling Burger
+[22:56:43] Order completed. +$30
+[16:31:51] Order generation started.
+[16:31:57] New order received: 3 items: [Fries ($15), Cola ($10), Tea ($10)]
+[16:32:03] New order received: 2 items: [Burger ($20), Burger ($20)]
+[16:32:09] New order received: 1 items: [Fries ($15)]
+[16:32:15] New order received: 1 items: [Tea ($10)]
+[16:32:21] New order received: 2 items: [Burger ($20), Fries ($15)]
+[16:32:27] New order received: 3 items: [Tea ($10), Fries ($15), Tea ($10)]
+[16:32:33] New order received: 1 items: [Cola ($10)]
+[09:07:03] Order generation started.
+[09:07:09] New order received: 1 items: [Fries ($15)]
+[09:07:15] New order received: 3 items: [Fries ($15), Cola ($10), Tea ($10)]
+[09:07:20] Restocked 5x TEA
+[09:07:21] New order received: 1 items: [Fries ($15)]
+[09:07:21] Restocked 5x TEA
+[09:07:21] Restocked 5x TEA
+[09:07:21] Restocked 5x TEA
+[09:07:21] Restocked 5x TEA
+[09:07:27] New order received: 3 items: [Burger ($20), Cola ($10), Tea ($10)]
+[09:07:33] New order received: 1 items: [Tea ($10)]
+[09:07:39] New order received: 1 items: [Tea ($10)]
+[09:07:45] New order received: 2 items: [Burger ($20), Fries ($15)]
+[09:07:51] New order received: 3 items: [Burger ($20), Tea ($10), Burger ($20)]
+[09:07:57] New order received: 1 items: [Fries ($15)]
+[09:08:03] New order received: 2 items: [Fries ($15), Cola ($10)]
+[09:08:09] New order received: 2 items: [Cola ($10), Fries ($15)]
+[09:08:15] New order received: 2 items: [Fries ($15), Tea ($10)]
+[09:08:18] Grill: grilling Fries
+[09:08:18] DrinkDispenser: preparing Tea
+[09:08:18] Order completed. +$20
+[09:08:19] Grill: grilling Burger
+[09:08:19] Grill: grilling Fries
+[09:08:19] Order completed. +$20
+[09:08:19] Grill: grilling Burger
+[09:08:19] DrinkDispenser: preparing Tea
+[09:08:19] Grill: grilling Burger
+[09:08:19] Order completed. +$30
+[09:08:19] Grill: grilling Fries
+[09:08:19] Order completed. +$10
+[09:08:19] Grill: grilling Fries
+[09:08:19] DrinkDispenser: preparing Cola
+[09:08:19] Order completed. +$20
+[09:08:19] DrinkDispenser: preparing Cola
+[09:08:19] Grill: grilling Fries
+[09:08:19] Order completed. +$20
+[09:08:19] Grill: grilling Fries
+[09:08:19] DrinkDispenser: preparing Tea
+[09:08:19] Order completed. +$20
+[09:08:20] No orders in queue.
+[09:08:21] New order received: 1 items: [Fries ($15)]
